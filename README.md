@@ -41,9 +41,9 @@
 <br/>
 <hr/>
 <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anees-ahme&show_icons=true&locale=en&layout=compact" alt="Anees-ahme" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anees-ahme&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="Anees-ahme" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anees-ahme&show_icons=true&locale=en" alt="Anees-ahme" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anees-ahme&theme=highcontrast&show_icons=true&locale=en" alt="Anees-ahme" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Anees-ahme&theme=highcontrast&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
