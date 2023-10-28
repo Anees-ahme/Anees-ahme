@@ -45,7 +45,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anees-ahme&theme=highcontrast&show_icons=true&locale=en" alt="Anees-ahme" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anees-ahme&theme=highcontrast&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Anees-ahme&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
+</div>
 
 
 
