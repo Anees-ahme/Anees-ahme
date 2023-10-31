@@ -45,7 +45,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anees-ahme&show_icons=true&locale=en" alt="Anees-ahme" /></p>
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anees-ahme&theme=highcontrast)](https://git.io/streak-stats)
 
 
 <h3 align="center">
