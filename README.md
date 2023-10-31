@@ -42,14 +42,14 @@
 <hr/>
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anees- 
-  ahme&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="Anees-ahme" /></p>
+ahme&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="Anees-ahme" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anees- 
-  ahme&theme=highcontrast&show_icons=true&locale=en" alt="Anees-ahme" /></p>
+ahme&theme=highcontrast&show_icons=true&locale=en" alt="Anees-ahme" /></p>
 
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Anees-        
-    ahme&count_private=true&theme=highcontrast&border_radius=10" alt="streak stats"/>
+ahme&count_private=true&theme=highcontrast&border_radius=10" alt="streak stats"/>
 </div>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
