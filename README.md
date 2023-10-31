@@ -29,6 +29,12 @@
   </a>
 </div>
 
+
+
+
+
+
+ <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anees- 
 ahme&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="Anees-ahme" /></p>
 
@@ -42,8 +48,6 @@ ahme&count_private=true&theme=highcontrast&border_radius=10" alt="streak stats"/
 
 
 
-
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
