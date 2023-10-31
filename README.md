@@ -40,16 +40,10 @@
 <br/>
 <hr/>
 <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anees- 
-ahme&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="Anees-ahme" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anees-ahme&show_icons=true&locale=en&layout=compact" alt="Anees-ahme" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anees- 
- ahme&theme=highcontrast&show_icons=true&locale=en" alt="Anees-ahme" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anees-ahme&show_icons=true&locale=en" alt="Anees-ahme" /></p>
 
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Anees-        
-ahme&count_private=true&theme=highcontrast&border_radius=10" alt="streak stats"/>
-</div>
 
 
 
