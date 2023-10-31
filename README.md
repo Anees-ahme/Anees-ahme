@@ -29,12 +29,17 @@
   </a>
 </div>
 
-
-
-
-
-
  <hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git,r,python,sql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,java,mysql" /><br>
+</div>
+
+<br/>
+<hr/>
+<hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anees- 
 ahme&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="Anees-ahme" /></p>
 
@@ -48,17 +53,6 @@ ahme&count_private=true&theme=highcontrast&border_radius=10" alt="streak stats"/
 
 
 
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git,r,python,sql" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,java,mysql" /><br>
-</div>
-
-<br/>
-<hr/>
-<hr/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
