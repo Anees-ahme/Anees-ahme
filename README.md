@@ -40,13 +40,11 @@
 <br/>
 <hr/>
 <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anees-ahme&show_icons=true&locale=en&layout=compact" alt="Anees-ahme" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anees-ahme&them=highcontrast&show_icons=true&locale=en&layout=compact" alt="Anees-ahme" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anees-ahme&show_icons=true&locale=en" alt="Anees-ahme" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anees-ahme&them=highcontrast&show_icons=true&locale=en" alt="Anees-ahme" /></p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anees-ahme&theme=highcontrast)](https://git.io/streak-stats)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anees-ahme&them=highcontrast&" alt="Anees-ahme" /></p>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
